@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "JZsDrE4Za6whOKdf69XBjxQk1daHq2o6s8DIzInx",
+      "masterKey": "xuTer68DuyQOg0RAtFuWYTtKixDbQiSySm2qlZ6k",
+      "allowInsecureHTTP": "true",
+      "appName": "TestApp"
+    }
+  ],
+  "iconsFolder": "icons"
+}
+

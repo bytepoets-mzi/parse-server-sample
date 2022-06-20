@@ -1,0 +1,9 @@
+{
+  "appId": "JZsDrE4Za6whOKdf69XBjxQk1daHq2o6s8DIzInx",
+  "masterKey": "xuTer68DuyQOg0RAtFuWYTtKixDbQiSySm2qlZ6k",
+  "appName": "TestApp",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://test:test@127.0.0.1:27017/parse?authSource=admin",
+  "allowClientClassCreation": false
+
+}
