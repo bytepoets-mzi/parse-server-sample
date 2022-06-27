@@ -4,6 +4,7 @@
   "appName": "TestApp",
   "cloud": "./cloud/main",
   "databaseURI": "mongodb://test:test@127.0.0.1:27017/parse?authSource=admin",
-  "allowClientClassCreation": false
+  "allowClientClassCreation": false,
+  "protectedFields": []
 
 }
